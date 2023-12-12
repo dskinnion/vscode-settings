@@ -29,8 +29,15 @@ If you **have** used VSCode before, this process will be a little more tedious:
 
 ### Extensions:
 * Azure Repos:
-- Dependency for GitHub extensions.
-* Better Comments:  
+  * Dependency for GitHub extensions.
+* Better Comments:
+  * Color codes types of comments with symbols at the beginning of each. For example, there are:
+    * "*" for highlighting a comment (green)
+    * "!" for an alert (red)
+    * "?" for a question (blue)
+    * "TODO" for a to-do (orange)
+    * "//" for a strikethrough
+  * You can also customize your own.
 * GitHub Copilot
 * GitHub Copilot Chat
 * GitHub Pull Requets and Issues
