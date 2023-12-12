@@ -38,21 +38,39 @@ If you **have** used VSCode before, this process will be a little more tedious:
   * In-line chat: You can use Cmd+I to start an inline chat, where you can ask Copilot to do something for you. One of my favorites is to ask Copilot "Can you write me the outline of a LaTeX document?"
   * Side chat: You can open up a side-pane for a continuous chat with Copilot, much like Chat-GPT. You can ask Copilot to explain things to you, or to make suggestions.
 * GitHub Pull Requests and Issues
+  * Allows for a smoother integration of GitHub into VSCode.
 * GitHub Repositories
+  * Another extension which helps to integrate your repositories into VSCode.
 * indent-rainbow
+  * Highlights vertically along indents, allowing you to see the different levels of structure in your code.
 * LaTeX Utilities
+  * Extension pack for LaTeX Workshop. Includes quicker paste options, live snippets, and word count.
+* LaTeX Workshop
+  * Includes many features, including snippets, shortcuts, and pdf-viewing.
 * Live Preview
+  * Allows you to see HTML previews inside VSCode.
 * LTeX - LanguageTool grammar/spell checking
+  * Underlines potential spelling and grammar mistakes.
 * Path Autocomplete
+  * Autocompletes paths for files inside your repository.
 * R
+  * Allows you to use R in VSCode, with snippets and various viewer options.
 * R Debugger
+  * Integrates the debugging process for R into VSCode.
 * Rainbow CSV
+  * If you view a CSV file inside VSCode, each variable will be color-coded (for easier viewing)
 * Remote Repositories
+  * Dependency for GitHub extensions.
 * Settings Cycler
+  * Necessary for using special keyboard shortcuts to toggle settings on/off.
 * Toggle
+  * Necessary for using special keyboard shortcuts to toggle settings on/off.
 * vscode-icons
+  * Includes additional graphic icons for file types, etc., inside VSCode.
 * Word Count
+  * Provides additional word count support for markdown documents.
 * Zotero LaTeX
+  * Allows for more smooth integration for Zotero in LaTeX documents.
 
 ## Instructions for Setting up R in VSCode:
 * list here
