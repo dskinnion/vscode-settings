@@ -29,7 +29,7 @@ If you **have** used VSCode before, this process will be a little more tedious:
 
 ### Extensions:
 * Azure Repos:
-* - Dependency for GitHub extensions.
+- Dependency for GitHub extensions.
 * Better Comments:  
 * GitHub Copilot
 * GitHub Copilot Chat
