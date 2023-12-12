@@ -6,7 +6,7 @@ In addition to this README, there are three more files inside this repository.
 * *settings.json*: this contains all of our non-default settings.
 * *keybindings.json*: this contains our specialty keyboard shortcuts.
 
-But first, we need to set up VSCode with R and LaTeX.
+*If you've already installed VSCode, skip the following section.*
 
 ## Instructions for Setting up Your VSCode:
 * list here
