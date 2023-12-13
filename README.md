@@ -112,4 +112,4 @@ This is a work in progress! If you like to use VSCode for other languages (Pytho
 
 You can contact me at dominic_skinnion@iq.harvard.edu. Thanks!
 
-[^1]: My personal opinion: RStudio also has Copilot integration now, so that is still a great alternative if you are just writing .R or .Rmd files. Some may even prefer it! I suggest taking a look at Matt Blackwell's instructions for [Getting Started with R, R Studio, Git, and GitHub](https://gov51.mattblackwell.org/assignments/00-r-intro/).
+[^1]: My personal opinion: RStudio also has Copilot integration now, so that is still a great alternative if you are just writing .R or .Rmd files. Some may even prefer it! I suggest taking a look at Matt Blackwell's instructions for [Getting Started with R, R Studio, Git, and GitHub](https://gov51.mattblackwell.org/assignments/00-r-intro/), as well as Posit's [R Studio User Guide for GitHub Copilot](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html).
