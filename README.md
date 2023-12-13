@@ -2,9 +2,9 @@
 A repository housing the settings and configuration files for our VSCode preferences.
 
 In addition to this README, there are three more files inside this repository. 
-* *extensions.json*: this lists out all of our recommended extensions. Upon opening this file in VSCode, you will be prompted to install these extensions. A full list of these extensions are below, in the extensions section.
-* *settings.json*: this contains all of our non-default settings.
-* *keybindings.json*: this contains our specialty keyboard shortcuts.
+* *extensions_to_copy.json*: this lists out all of our recommended extensions. Upon opening this file in VSCode, you will be prompted to install these extensions. A full list of these extensions are below, in the extensions section.
+* *settings_to_copy.json*: this contains all of our non-default settings.
+* *keybindings_to_copy.json*: this contains our specialty keyboard shortcuts.
 
 *If you've already installed VSCode, skip the following section.*
 
@@ -29,7 +29,7 @@ Installing our configurations will vary depending on if you have used VSCode bef
 * Open VSCode
 * In the left-hand toolbar, select Explorer (the top-most icon)
 * Open this downloaded repository.
-* Click on extensions.json in the Explorer pane.
+* Click on extensions_to_copy.json in the Explorer pane.
 * Copy the text from this file.
 * In the left-hand toolbar, select Extensions (four box icon with one slightly off)
 * In the Extensions pane, in the search bar, type "@recommended" and two categories will pop up: Workspace Recommendations and Other Recommendations.
@@ -37,7 +37,7 @@ Installing our configurations will vary depending on if you have used VSCode bef
 * Click on the pencil icon. A file called extensions.json will open, and it will be mostly empty. (To be sure this is the correct file, it should open with ".vscode > extensions.json > [] recommendations" under the title of the file.)
 * Paste in the text we copied earlier.
 * Save the file.
-* In the Extensions Pane, there now should be 22 extensions in your Workspace Recommendations.
+* In the Extensions Pane, there now should be 22+ extensions in your Workspace Recommendations.
 * Click the cloud icon ("Install Workspace Recommended Extensions").
 * Congrats! Our recommended extensions should all be installed.
 
