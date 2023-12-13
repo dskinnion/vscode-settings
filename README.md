@@ -1,6 +1,8 @@
 # vscode-settings
 A repository housing the settings and configuration files for our VSCode preferences.
 
+Configuration Recommendation Profile: https://vscode.dev/profile/github/20e6ae5efe1a14cc1f242e03e41bb715
+
 In addition to this README, there are three more files inside this repository. 
 * *extensions_to_copy.json*: this lists out all of our recommended extensions. Upon opening this file in VSCode, you will be prompted to install these extensions. A full list of these extensions are below, in the extensions section.
 * *settings_to_copy.json*: this contains all of our non-default settings.
@@ -19,15 +21,11 @@ Congrats, you've downloaded VSCode!
 
 
 ## Installing our Configurations:
-
-Installing our configurations will vary depending on if you have used VSCode before.
-
-### If you **have not** used VSCode before, then we recommend the following instructions:
-
-#### Installing our Recommended Extensions:
 * Download the files from this GitHub repository.
 * Open VSCode
-* In the left-hand toolbar, select Explorer (the top-most icon)
+
+### Installing our Recommended Extensions:
+* In the left-hand toolbar, select Explorer (the top-most icon).
 * Open this downloaded repository.
 * Click on extensions_to_copy.json in the Explorer pane.
 * Copy the text from this file.
@@ -40,6 +38,10 @@ Installing our configurations will vary depending on if you have used VSCode bef
 * In the Extensions Pane, there now should be 22+ extensions in your Workspace Recommendations.
 * Click the cloud icon ("Install Workspace Recommended Extensions").
 * Congrats! Our recommended extensions should all be installed.
+
+### Installing our Recommended Keyboard Shortcuts:
+* Select the Settings icon in the bottom-left corner of VSCode.
+* Select 
 
 If you **have** used VSCode before, this process will be a little different:
 * list here.
