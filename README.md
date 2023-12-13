@@ -1,16 +1,12 @@
-# vscode-settings
-A repository housing the settings and configuration files for our VSCode preferences.
+# Setting Up Visual Studio Code (The IQSS Way)
 
-Configuration Recommendation Profile: https://vscode.dev/profile/github/20e6ae5efe1a14cc1f242e03e41bb715
+With its Copilot integration and a marketplace full of extensions, we recommend using **Visual Studio Code (VSCode)** for your coding IDE. It is especially useful if you are in academia, and need to write in R[^1], Python, LaTeX, etc. 
 
-In addition to this README, there are three more files inside this repository. 
-* *extensions_to_copy.json*: this lists out all of our recommended extensions. Upon opening this file in VSCode, you will be prompted to install these extensions. A full list of these extensions are below, in the extensions section.
-* *settings_to_copy.json*: this contains all of our non-default settings.
-* *keybindings_to_copy.json*: this contains our specialty keyboard shortcuts.
+## Table of Contents
+1. Instructions for Downloading VSCode
+2. Importing Our Recommended Profile
 
-*If you've already installed VSCode, skip the following section.*
-
-## Instructions for Downloading VSCode:
+## 1. Instructions for Downloading VSCode:
 Visual Studio Code has [instructions](https://code.visualstudio.com/learn/get-started/basics) for getting started.
 
 You can download VSCode directly from their [website](https://code.visualstudio.com/download) for your operating system.
@@ -19,10 +15,18 @@ Unzip the download (mine was called "VSCode-darwin-universal.zip), and then clic
 
 Congrats, you've downloaded VSCode!
 
+## 2. Importing Our Recommended Profile
+* Inside VSCode, click on the settings icon in the bottom-left corner
+* Select "Profiles (*Name of your current profile*)" &#8592; this should be "Profiles (Default)" if you are doing this for the first time
+* Select "Import Profile"
+* Copy and paste the following URL into the search bar pop-up that says "Provide Profile Template URL": https://vscode.dev/profile/github/db112ae4b5aef7a82c7284c2e0525ad2
+* A pane on the left will pop up. Leave everything checked off, and select the blue "Create Profile" button
+* Enter a name for this profile in the text pop-up, such as "IQSS Recs"
+* Leave everything checked off, and select the blue "Create" button
 
-## Installing our Configurations:
-* Download the files from this GitHub repository.
-* Open VSCode
+Now the settings icon should have a short descriptor bubble attached, e.g. "IQ", and if you click on it, you should see that it now says "Profiles (*Profile Name*)", such as "Profiles (IQSS Rec)"
+
+Congrats, you've imported our recommended profile!
 
 ### Installing our Recommended Extensions:
 * In the left-hand toolbar, select Explorer (the top-most icon).
@@ -107,3 +111,5 @@ If you **have** used VSCode before, this process will be a little different:
 This is a work in progress! If you like to use VSCode for other languages (Python, etc.), let us know which extensions and settings you like -- we'll add them in to our instructions. If you have additional extensions, settings, or keybindings you'd like to share, please do so!
 
 You can contact me at dominic_skinnion@iq.harvard.edu. Thanks!
+
+[^1]: My personal opinion: RStudio also has Copilot integration now, so that is still a great alternative if you are just writing .R or .Rmd files. Some may even prefer it! I suggest taking a look at Matt Blackwell's instructions for [Getting Started with R, R Studio, Git, and GitHub](https://gov51.mattblackwell.org/assignments/00-r-intro/).
