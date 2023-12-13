@@ -2,6 +2,8 @@
 
 With its Copilot integration and a marketplace full of extensions, we recommend using **Visual Studio Code (VSCode)** for your coding IDE. It is especially useful if you are in academia, and need to write in R[^1], Python, LaTeX, etc. 
 
+Here' we'll teach you how to download VSCode, as well as the extensions, settings, and shortcuts that we like to make this a more robust text editor. Of course, you may not have the same preferences! Once you have these downloaded, you can customize your VSCode with the extensions, settings, and shortcuts that you like. We'd love to hear feedback from you and incorporate your suggestions into our recommended profile![^2] 
+
 ## Table of Contents
 1. Instructions for Downloading VSCode
 2. Importing Our Recommended Profile
@@ -108,8 +110,9 @@ If you **have** used VSCode before, this process will be a little different:
 * list here
 
 ## Contact Us:
-This is a work in progress! If you like to use VSCode for other languages (Python, etc.), let us know which extensions and settings you like -- we'll add them in to our instructions. If you have additional extensions, settings, or keybindings you'd like to share, please do so!
+This is a work in progress! If you like to use VSCode for other languages (Python, etc.), let us know which extensions and settings you like! If you have additional extensions, settings, or keybindings you'd like to share, please do so!
 
 You can contact me at dominic_skinnion@iq.harvard.edu. Thanks!
 
 [^1]: My personal opinion: RStudio also has Copilot integration now, so that is still a great alternative if you are just writing .R or .Rmd files. Some may even prefer it! I suggest taking a look at Matt Blackwell's instructions for [Getting Started with R, R Studio, Git, and GitHub](https://gov51.mattblackwell.org/assignments/00-r-intro/), as well as Posit's [R Studio User Guide for GitHub Copilot](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html).
+[^2]: See the "Contact Us" section above. You can reach out to me at dominic_skinnion@iq.harvard.edu.
