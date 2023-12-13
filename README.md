@@ -30,27 +30,10 @@ Now the settings icon should have a short descriptor bubble attached, e.g. "IQ",
 
 Congrats, you've imported our recommended profile!
 
-### Installing our Recommended Extensions:
-* In the left-hand toolbar, select Explorer (the top-most icon).
-* Open this downloaded repository.
-* Click on extensions_to_copy.json in the Explorer pane.
-* Copy the text from this file.
-* In the left-hand toolbar, select Extensions (four box icon with one slightly off)
-* In the Extensions pane, in the search bar, type "@recommended" and two categories will pop up: Workspace Recommendations and Other Recommendations.
-* Select the dropdown arrow next to Workspace Recommendations.
-* Click on the pencil icon. A file called extensions.json will open, and it will be mostly empty. (To be sure this is the correct file, it should open with ".vscode > extensions.json > [] recommendations" under the title of the file.)
-* Paste in the text we copied earlier.
-* Save the file.
-* In the Extensions Pane, there now should be 22+ extensions in your Workspace Recommendations.
-* Click the cloud icon ("Install Workspace Recommended Extensions").
-* Congrats! Our recommended extensions should all be installed.
-
-### Installing our Recommended Keyboard Shortcuts:
-* Select the Settings icon in the bottom-left corner of VSCode.
-* Select 
-
-If you **have** used VSCode before, this process will be a little different:
-* list here.
+This includes:
+* **extensions**, which will automatically install for you. You can access these by clicking the extensions icon on the left-hand toolbar, which has three squares in an L shape with an additional square that is separated at the top right corner.
+* **settings.json**, which you can access by clicking the settings icon, selecting Settings, and then clicking the "Open Setting (JSON)" icon in the file toolbar, which looks like a piece of paper with a curved arrow.
+* **keybindings.json**, which you can access by clicking the settings icon, selecting Keyboard Shortcuts, and then clicking the "Open Keyboard Shortcuts (JSON)" icon in the file toolbar, which looks like a piece of paper with a curved arrow.
 
 ### Extensions:
 * **Azure Repos**:
@@ -103,11 +86,6 @@ If you **have** used VSCode before, this process will be a little different:
 * **Zotero LaTeX**:
   * Allows for more smooth integration for Zotero in LaTeX documents.
 
-## Instructions for Setting up R in VSCode:
-* list here
-
-## Instructions for Setting up LaTeX in VSCode:
-* list here
 
 ## Contact Us:
 This is a work in progress! If you like to use VSCode for other languages (Python, etc.), let us know which extensions and settings you like! If you have additional extensions, settings, or keybindings you'd like to share, please do so!
