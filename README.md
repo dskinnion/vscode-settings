@@ -8,8 +8,15 @@ In addition to this README, there are three more files inside this repository.
 
 *If you've already installed VSCode, skip the following section.*
 
-## Instructions for Setting up Your VSCode:
-* list here
+## Instructions for Downloading VSCode:
+Visual Studio Code has [instructions] (https://code.visualstudio.com/learn/get-started/basics) for getting started.
+
+You can download VSCode directly from their [website] (https://code.visualstudio.com/download) for your operating system.
+
+Unzip the download (mine was called "VSCode-darwin-universal.zip), and then click on the new application (Visual Studio Code). A pop-up will ask you if you want to open an app downloaded from the internet. Click open.
+
+Congrats, you've downloaded VSCode!
+
 
 ## Installing our Configurations:
 
