@@ -22,10 +22,26 @@ Congrats, you've downloaded VSCode!
 
 Installing our configurations will vary depending on if you have used VSCode before.
 
-If you **have not** used VSCode before, then we recommend the following instructions:
-* list here.
+### If you **have not** used VSCode before, then we recommend the following instructions:
 
-If you **have** used VSCode before, this process will be a little more tedious:
+#### Installing our Recommended Extensions:
+* Download the files from this GitHub repository.
+* Open VSCode
+* In the left-hand toolbar, select Explorer (the top-most icon)
+* Open this downloaded repository.
+* Click on extensions.json in the Explorer pane.
+* Copy the text from this file.
+* In the left-hand toolbar, select Extensions (four box icon with one slightly off)
+* In the Extensions pane, in the search bar, type "@recommended" and two categories will pop up: Workspace Recommendations and Other Recommendations.
+* Select the dropdown arrow next to Workspace Recommendations.
+* Click on the pencil icon. A file called extensions.json will open, and it will be mostly empty. (To be sure this is the correct file, it should open with ".vscode > extensions.json > [] recommendations" under the title of the file.)
+* Paste in the text we copied earlier.
+* Save the file.
+* In the Extensions Pane, there now should be 22 extensions in your Workspace Recommendations.
+* Click the cloud icon ("Install Workspace Recommended Extensions").
+* Congrats! Our recommended extensions should all be installed.
+
+If you **have** used VSCode before, this process will be a little different:
 * list here.
 
 ### Extensions:
