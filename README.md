@@ -85,6 +85,12 @@ This includes:
   * Provides additional word count support for markdown documents.
 * **Zotero LaTeX**:
   * Allows for more smooth integration for Zotero in LaTeX documents.
+ 
+### Settings
+We've added a few non-default settings, which will be automatically configured with this profile. Again, you might not like all of these — feel free to remove these from your settings.json file.
+
+### Keyboard Shortcuts
+We've also added a few keyboard shortcuts. You can remove these from your keybindings.json file if you do not like them. You can also add your own keyboard shortcuts by clicking the settings icon, selecting Keyboard Shortcuts and then searching for the command which you'd like to add.
 
 
 ## Contact Us:
