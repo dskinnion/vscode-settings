@@ -7,6 +7,8 @@ Here' we'll teach you how to download VSCode, as well as the extensions, setting
 ## Table of Contents
 1. Instructions for Downloading VSCode
 2. Importing Our Recommended Profile
+3. Customizing Your Own VSCode
+4. Deleting Profiles
 
 ## 1. Instructions for Downloading VSCode:
 Visual Studio Code has [instructions](https://code.visualstudio.com/learn/get-started/basics) for getting started.
@@ -22,7 +24,7 @@ Congrats, you've downloaded VSCode!
 * Select "Profiles (*Name of your current profile*)" &#8592; this should be "Profiles (Default)" if you are doing this for the first time
 * Select "Import Profile"
 * Copy and paste the following URL into the search bar pop-up that says "Provide Profile Template URL": https://vscode.dev/profile/github/436e1bef975d60cc8d55a5dc7a866100.
-  * If you were to follow this link in a browser, it would bring you to VSCode's Preview in a browser. More information about their browser version [here](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev). 
+  * If you were to follow this link in a browser, it would bring you to VSCode's Preview in a browser. More information about their browser version [here](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev).
 * A pane on the left will pop up. Leave everything checked off, and select the blue "Create Profile" button
 * Enter a name for this profile in the text pop-up, such as "IQSS Recs"
 * Leave everything checked off, and select the blue "Create" button
@@ -93,6 +95,9 @@ We've added a few non-default settings, which will be automatically configured w
 ### Keyboard Shortcuts
 We've also added a few keyboard shortcuts. You can remove these from your keybindings.json file if you do not like them. You can also add your own keyboard shortcuts by clicking the settings icon, selecting Keyboard Shortcuts and then searching for the command which you'd like to add.
 
+## 3. Customizing Your Own VSCode
+
+## 4. Deleting Profiles
 
 ## Contact Us:
 This is a work in progress! If you like to use VSCode for other languages (Python, etc.), let us know which extensions and settings you like! If you have additional extensions, settings, or keybindings you'd like to share, please do so!
