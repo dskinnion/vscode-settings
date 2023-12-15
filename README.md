@@ -7,8 +7,9 @@ Here' we'll teach you how to download VSCode, as well as the extensions, setting
 ## Table of Contents
 1. Instructions for Downloading VSCode
 2. Importing Our Recommended Profile
-3. Customizing Your Own VSCode
-4. Deleting Profiles
+3. Recommended Dependencies
+4. Customizing Your Own VSCode
+5. Deleting Profiles
 
 ## 1. Instructions for Downloading VSCode:
 Visual Studio Code has [instructions](https://code.visualstudio.com/learn/get-started/basics) for getting started.
@@ -94,10 +95,26 @@ We've added a few non-default settings, which will be automatically configured w
 
 ### Keyboard Shortcuts
 We've also added a few keyboard shortcuts. You can remove these from your keybindings.json file if you do not like them. You can also add your own keyboard shortcuts by clicking the settings icon, selecting Keyboard Shortcuts and then searching for the command which you'd like to add.
+* "Option+Command+y": Will show you all of your built-in LaTeX recipes.
+* "Shift+Option+b": When you are inside a .tex file, this will open the accompanying output PDF in an external viewer. We recommend using Skim, which you can set up with sync so that it will refresh whenever you save/build the .tex file.
+* "Option+Command+f": When you are typing, this will toggle on/off whether inline suggestons will appear. Once you toggle on/off, you need to continue typing to see the change take effect.
+* "Option+Command+h": When you have text highlighted, this will toggle on/off whether repeat occurrences of that word will also be highlighted.
 
-## 3. Customizing Your Own VSCode
+## 3. Recommended Dependencies
+* GitHub:
+* Copilot:
+* Skim:
+  * Skim is a PDF viewer. We recommend setting this as your default PDF viewer.
+  * Once Skim is open, go to the top toolbar menu. Select Skim > Settings.
+  * In the settings pane that opens, click Sync on the top right.
+  * Check off the boxes for "Check for file changes" and "Reload automatically"
+  * In the PDF-TeX Sync support section, set the "Preset" to Visual Studio Code
+* MikTex:
+* Pandoc:
 
-## 4. Deleting Profiles
+## 4. Customizing Your Own VSCode
+
+## 5. Deleting Profiles
 
 ## Contact Us:
 This is a work in progress! If you like to use VSCode for other languages (Python, etc.), let us know which extensions and settings you like! If you have additional extensions, settings, or keybindings you'd like to share, please do so!
