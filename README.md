@@ -142,7 +142,11 @@ We've also added a few keyboard shortcuts. You can remove these from your keybin
 
 ### Adding Your Own Extensions
 
+Adding your own extensions is easy. Simply locate the extensions icon on the left-hand toolbar (it looks like three squares in an L, with one separated square to the top right). You can search for any extension available! When you've found an extension that you like, all you need to do is click the "Install" button!
+
 ### Adding Your Own Settings
+
+You may want different default settings. Click the settings icon in the bottom-right, and click Settings. This will open up all of your VSCode settings available. Search for what you want to do. Most settings have dropdowns or checkboxes. Simply select whichever options you like. (Underneath the hood, VSCode will also write these to your settings.json file, which you can see by clicking the Open File icon (paper with an arrow) on the top right toolbar.)
 
 ### Adding Your Own Keyboard Shortcuts
 
