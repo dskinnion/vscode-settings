@@ -17,13 +17,13 @@ Here we'll teach you how to download VSCode, as well as the extensions, settings
 3. [Recommended Dependencies](#3-recommended-dependencies)
 4. [Customizing Your Own VSCode](#4-customizing-your-own-vscode)
    
-   4.1 [Adding Your Own Extensions]
+   4.1 [Adding Your Own Extensions](#adding-your-own-extensions)
 
-   4.2 [Adding Your Own Settings]
+   4.2 [Adding Your Own Settings](#adding-your-own-settings)
    
-   4.3 [Adding Your Own Keyboard Shortcuts]
+   4.3 [Adding Your Own Keyboard Shortcuts](#adding-your-own-keyboard-shortcuts)
    
-   4.4 [Exporting Your Own Profile for Others!]
+   4.4 [Exporting Your Own Profile for Others!](#exporting-your-own-profile-for-others)
    
 5. [Deleting Profiles](#5-deleting-profiles)
 
