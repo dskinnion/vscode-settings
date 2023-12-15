@@ -2,7 +2,7 @@
 
 With its Copilot integration and a marketplace full of extensions, we recommend using **Visual Studio Code (VSCode)** for your coding IDE. It is especially useful if you are in academia, and need to write in R[^1], Python, LaTeX, etc. 
 
-Here' we'll teach you how to download VSCode, as well as the extensions, settings, and shortcuts that we like to make this a more robust text editor. Of course, you may not have the same preferences! Once you have these downloaded, you can customize your VSCode with the extensions, settings, and shortcuts that you like. We'd love to hear feedback from you and incorporate your suggestions into our recommended profile![^2] 
+Here we'll teach you how to download VSCode, as well as the extensions, settings, and shortcuts that we like to make this a more robust text editor. Of course, you may not have the same preferences! Once you have these downloaded, you can customize your VSCode with the extensions, settings, and shortcuts that you like. We'd love to hear feedback from you and incorporate your suggestions into our recommended profile![^2] 
 
 ## Table of Contents
 1. [Instructions for Downloading VSCode](#1-instructions-for-downloading-vscode)
