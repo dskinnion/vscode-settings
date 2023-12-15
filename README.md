@@ -21,7 +21,8 @@ Congrats, you've downloaded VSCode!
 * Inside VSCode, click on the settings icon in the bottom-left corner
 * Select "Profiles (*Name of your current profile*)" &#8592; this should be "Profiles (Default)" if you are doing this for the first time
 * Select "Import Profile"
-* Copy and paste the following URL into the search bar pop-up that says "Provide Profile Template URL": https://vscode.dev/profile/github/436e1bef975d60cc8d55a5dc7a866100
+* Copy and paste the following URL into the search bar pop-up that says "Provide Profile Template URL": https://vscode.dev/profile/github/436e1bef975d60cc8d55a5dc7a866100.
+  * If you were to follow this link in a browser, it would bring you to VSCode's Preview in a browser. More information about their browser version [here](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev). 
 * A pane on the left will pop up. Leave everything checked off, and select the blue "Create Profile" button
 * Enter a name for this profile in the text pop-up, such as "IQSS Recs"
 * Leave everything checked off, and select the blue "Create" button
