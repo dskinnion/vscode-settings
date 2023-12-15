@@ -23,9 +23,13 @@ Here we'll teach you how to download VSCode, as well as the extensions, settings
    
    4.3 [Adding Your Own Keyboard Shortcuts](#adding-your-own-keyboard-shortcuts)
    
-   4.4 [Exporting Your Own Profile for Others!](#exporting-your-own-profile-for-others)
-   
-5. [Deleting Profiles](#5-deleting-profiles)
+5. [Managing Profiles](#5-managing-profiles)
+
+   5.1 [Creating Your Own Profile](#creating-your-own-profile)
+
+   5.2 [Exporting Your Own Profile](#exporting-your-own-profile)
+
+   5.3 [Deleting Profiles](#deleting-profiles)
 
 ## 1. Instructions for Downloading VSCode:
 Visual Studio Code has [instructions](https://code.visualstudio.com/learn/get-started/basics) for getting started.
@@ -114,7 +118,7 @@ We've added quite a few non-default settings, which will be automatically config
 * Word wrapping
 
 ### Keyboard Shortcuts
-We've also added a few keyboard shortcuts. You can remove these from your keybindings.json file if you do not like them. You can also add your own keyboard shortcuts by clicking the settings icon, selecting Keyboard Shortcuts and then searching for the command which you'd like to add.
+We've also added a few keyboard shortcuts. You can remove these from your keybindings.json file if you do not like them. 
 * "Option+Command+y": Will show you all of your built-in LaTeX recipes.
 * "Shift+Option+b": When you are inside a .tex file, this will open the accompanying output PDF in an external viewer. We recommend using Skim, which you can set up with sync so that it will refresh whenever you save/build the .tex file.
 * "Option+Command+f": When you are typing, this will toggle on/off whether inline suggestons will appear. Once you toggle on/off, you need to continue typing to see the change take effect.
@@ -150,9 +154,26 @@ You may want different default settings. Click the settings icon in the bottom-r
 
 ### Adding Your Own Keyboard Shortcuts
 
-### Exporting Your Own Profile for Others!
+You can also add your own keyboard shortcuts by clicking the settings icon, selecting Keyboard Shortcuts and then searching for the command which you'd like to add. Then, click the pencil icon to the left of the command, and then enter in the keys you'd like to use for your shortcut.
 
-## 5. Deleting Profiles
+You should then be able to see these in the Keyboard Shortcuts menu or if you click the Open File icon (paper with an arrow) in the top right of the toolbar, you can see your customized keyboard shortcuts.
+
+## 5. Managing Profiles
+
+### Creating Your Own Profile
+
+### Exporting Your Own Profile
+
+Once you have made your own personalized settings, you can export your own profile to share with others.
+* Click the settings menu
+* Click Profiles
+* Click Export Profile
+* Click the blue "Export" button
+* Give it a name, click enter
+* Select the GitHub gist option
+* Copy the link to share!
+
+### Deleting Profiles
 
 ## Contact Us:
 This is a work in progress! If you like to use VSCode for other languages (Python, etc.), let us know which extensions and settings you like! If you have additional extensions, settings, or keybindings you'd like to share, please do so!
