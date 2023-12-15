@@ -91,7 +91,11 @@ This includes:
   * Allows for more smooth integration for Zotero in LaTeX documents.
  
 ### Settings
-We've added a few non-default settings, which will be automatically configured with this profile. Again, you might not like all of these — feel free to remove these from your settings.json file.
+We've added quite a few non-default settings, which will be automatically configured with this profile. Again, you might not like all of these — feel free to remove these from your settings.json file. Here is a list of some of these settings:
+* Additional LaTeX recipes:
+  * xelatex+ and pdflatex+ will actually build the accompanying files many times underneath the hood in order to make sure that your bibliography citations correspond correctly.
+* LaTeX outline view will include the sections: part, chapter, section, subsection, subsubsection, and paragraph.
+* Word wrapping
 
 ### Keyboard Shortcuts
 We've also added a few keyboard shortcuts. You can remove these from your keybindings.json file if you do not like them. You can also add your own keyboard shortcuts by clicking the settings icon, selecting Keyboard Shortcuts and then searching for the command which you'd like to add.
@@ -102,17 +106,31 @@ We've also added a few keyboard shortcuts. You can remove these from your keybin
 
 ## 3. Recommended Dependencies
 * GitHub:
+  * We recommend using GitHub. If you do not already have a GitHub account, we recommend following the [instructions about GitHub from Matt Blackwell](https://gov51.mattblackwell.org/assignments/00-r-intro/).
 * Copilot:
+  * One of the main benefits of VSCode is its integration with GitHub Copilot, an AI pair programmer which helps you to more effectively and quickly write code.
+  * Please use [these instructions](https://docs.github.com/en/copilot/quickstart) for setting up your GitHub Copilot account.
 * Skim:
-  * Skim is a PDF viewer. We recommend setting this as your default PDF viewer.
+  * Skim is a PDF viewer, which you can [download from the internet](https://skim-app.sourceforge.io/). We recommend setting this as your default PDF viewer.
   * Once Skim is open, go to the top toolbar menu. Select Skim > Settings.
   * In the settings pane that opens, click Sync on the top right.
   * Check off the boxes for "Check for file changes" and "Reload automatically"
   * In the PDF-TeX Sync support section, set the "Preset" to Visual Studio Code
 * MikTex:
+  * MikTex is a TeX distribution which you can [download from the internet](https://miktex.org/download).
+  * If you already have a TeX distribution installed on your computer, you likely do not need to install MikTex as well. (Although, I personally had TinyTeX installed on my computer, and I still had to install MikTex for VSCode.)
 * Pandoc:
+  * Pandoc allows you to knit .Rmd files to PDF files. You can [install the latest release from the internet](https://pandoc.org/installing.html).
 
 ## 4. Customizing Your Own VSCode
+
+### Adding Your Own Extensions
+
+### Adding Your Own Settings
+
+### Adding Your Own Keyboard Shortcuts
+
+### Exporting Your Own Profile for Others!
 
 ## 5. Deleting Profiles
 
