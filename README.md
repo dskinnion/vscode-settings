@@ -7,16 +7,19 @@ Here we'll teach you how to download VSCode, as well as the extensions, settings
 ## Table of Contents
 1. [Instructions for Downloading VSCode](#1-instructions-for-downloading-vscode)
 2. [Importing Our Recommended Profile](#2-importing-our-recommended-profile)
+   
    2.1 [Extensions](#extensions)
+   
    2.2 [Settings](#settings)
+   
    2.3 [Keyboard Shortcuts](#keyboard-shortcuts)
-3. [Recommended Dependencies](#3-recommended-dependencies)
-4. [Customizing Your Own VSCode](#4-customizing-your-own-vscode)
+4. [Recommended Dependencies](#3-recommended-dependencies)
+5. [Customizing Your Own VSCode](#4-customizing-your-own-vscode)
    A. [Adding Your Own Extensions]
    B. [Adding Your Own Settings]
    C. [Adding Your Own Keyboard Shortcuts]
    D. [Exporting Your Own Profile for Others!]
-5. [Deleting Profiles](#5-deleting-profiles)
+6. [Deleting Profiles](#5-deleting-profiles)
 
 ## 1. Instructions for Downloading VSCode:
 Visual Studio Code has [instructions](https://code.visualstudio.com/learn/get-started/basics) for getting started.
