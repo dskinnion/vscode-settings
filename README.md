@@ -1,5 +1,7 @@
 # Setting Up Visual Studio Code (The IQSS Way)
 
+**IMPORT PROFILE LINK***: https://vscode.dev/profile/github/2f5c3eb559798c7c449adac706742807.
+
 With its Copilot integration and a marketplace full of extensions, we recommend using **Visual Studio Code (VSCode)** for your coding IDE. It is especially useful if you are in academia, and need to write in R[^1], Python, LaTeX, etc. 
 
 Here we'll teach you how to download VSCode, as well as the extensions, settings, and shortcuts that we like to make this a more robust text editor. Of course, you may not have the same preferences! Once you have these downloaded, you can customize your VSCode with the extensions, settings, and shortcuts that you like. We'd love to hear feedback from you and incorporate your suggestions into our recommended profile![^2] 
